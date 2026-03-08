@@ -2,6 +2,7 @@
 conda create -n webapp python=3.11 -y
 
 conda activate webapp
+```
 
 ## 1. Login with you AWS console and launch an EC2 instance
 ## 2. Run the following commands
