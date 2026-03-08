@@ -63,5 +63,5 @@ docker rmi yousseflarbi/imageclswebapp:latest
 ```
 
 ```bash
-docker pull yousseflarbi/imageclswebapp:latest
+docker pull yousseflarbi/imageclswebapp
 ```
